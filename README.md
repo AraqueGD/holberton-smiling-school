@@ -6,8 +6,24 @@
 
 ### Here the final result:
 
-| **Desktop (Width: 1440 px)** | **Tablet (Width: 768 px)** | **Mobile (Width: 576 px)** |
-| ---------------------------- | -------------------------- | -------------------------- |
+# Homepage
 
+| **Desktop (Width: 1440 px)**                              | **Tablet (Width: 768 px)**                              | **Mobile (Width: 576 px)**                              |
+| --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |
+| ![Desktop](https://i.ibb.co/pKGgC0J/Homepage-Desktop.png) | ![Tablet](https://i.ibb.co/6XBLwf9/Homepage-Tablet.png) | ![Mobile](https://i.ibb.co/NVBK21F/Homepage-Mobile.png) |
 
-| ![Page](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3c71cc99d2fc1c12a3d3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200917%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200917T003717Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6ce684e53e3b95ac445afad465417b18519223d740e7135965fb6b220927597c)
+# Pricing
+
+| **Desktop (Width: 1440 px)**                             | **Tablet (Width: 768 px)**                             | **Mobile (Width: 576 px)**                             |
+| -------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| ![Desktop](https://i.ibb.co/RvSJ2YS/Pricing-Desktop.png) | ![Tablet](https://i.ibb.co/Gkvsf0Y/Pricing-Tablet.png) | ![Mobile](https://i.ibb.co/6RwmYck/Pricing-Mobile.png) |
+
+# Courses
+
+| **Desktop (Width: 1440 px)**                             | **Tablet (Width: 768 px)**                             | **Mobile (Width: 576 px)**                             |
+| -------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| ![Desktop](https://i.ibb.co/y51S3HX/Courses-Desktop.png) | ![Tablet](https://i.ibb.co/28qK1g0/Courses-Tablet.png) | ![Mobile](https://i.ibb.co/f8zNgkx/Courses-Mobile.png) |
+
+## Author
+
+Camilo Araque: [AraqueGD](https://github.com/AraqueGD) [Linkedin](https://www.linkedin.com/in/camilo-araque-caro-01226b1a0/)
